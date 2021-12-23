@@ -3,8 +3,9 @@
 -    L2/L3 Switching and Routing, VPS, VPN, SDN, TCP/IP IPv4/v6. 
 -    Also familiar with Web/Python/RESTapi technology
 - 🌱 I’m currently learning all things about cloud infrastructures - AWS, OCI, GCP etc...
-- 💞️ I’m looking around..... for a job :-)) 
-- 📫 How to reach me via email - adrian8818@yahoo.com.sg
+- 💞️ I’m looking around..... for a job :-))
+-    Please email me for a copy of my full resume 
+- 📫 I can be contacted via email - adrian8818@yahoo.com.sg
 
 <!---
 win1688/win1688 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
